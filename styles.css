@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Plus Jakarta Sans', sans-serif
+}
+
+h1 {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  margin-top: 0;
+  padding-top: 125px;
+}
+
+p {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.separador {
+  border-style: solid;
+  margin: 100px auto 100px auto;
+  color: #FFD8BE;
+  background-color: #FFD8BE ;
+  width: 35%;
+
+
+}
+
+header {
+  background-color: #F8F7FF;
+  height: 320px;
+}
+
+a {
+  color: black;
+  margin: 10px 20px;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #9381FF;
+}
+
+.menu {
+  word-spacing: 50px;
+  line-height: 50px;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  background-color: #FFEEDD;
+  position: fixed;
+  width: 100%;
+}
+
+#sobre-mi {
+  word-spacing: normal;
+}
+
+.skill-row {
+  width: 25%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+
+.bottom-container {
+  word-spacing: 50px;
+  padding: 50px;
+  background-color: #FFEEDD;
+}
+
+
+.middle-container {
+  padding: 50px;
+}
+
+#expresate {
+  margin-bottom: 50px;
+}
+
+.copyright {
+  font-size: 0.75rem;
+  padding-top: 20px;
+  word-spacing: normal;
+}
+
